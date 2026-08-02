@@ -1,4 +1,5 @@
 {
   "minimumVersion": "1.2.0",
-  "communityEnabled": true
+  "communityEnabled": true,
+  "adSDKEventsEnabled": true
 }
